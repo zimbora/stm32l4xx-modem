@@ -19,6 +19,7 @@
 ## Dependencies
 
   serial - https://github.com/stm32l4xx-packages/serial
+  
   logging - https://github.com/stm32l4xx-packages/logging
 
 ## Functionalities
